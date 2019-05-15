@@ -1,8 +1,457 @@
 {
-  "posts": [
+  "product": [
     {
       "id": 1,
-      "title": "hello"
+      "category": "trending",
+      "title": "Single SIM Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 598,
+      "rating": 78.98,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2FG10D%20Single%20SIM%20Smart%20Watch%20-%20Black.jpg?alt=media&token=f4fb841a-a39d-4d9b-b570-47a3877c6201",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }],
+      
+    },
+    {
+      "id": 2,
+      "category": "trending",
+      "title": "Z10B Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 988,
+      "rating": 79.98,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2FZ10B%20Smart%20Watch.jpeg?alt=media&token=eb512c44-94ac-47da-9b01-324f9b898267",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }],
+      
+    },
+    {
+      "id": 3,
+      "category": "trending",
+      "title": "LG Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 340,
+      "rating": 70,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2F0105689_amazfit-verge-smart-watch-global-version_415.jpeg?alt=media&token=74030ff8-fc10-436e-b081-2e01526e0046",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }],
+      
+    },
+    {
+      "id": 4,
+      "category": "trending",
+      "title": "MI Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 340,
+      "rating": 70,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2F0110531_heart-rate-activity-fitness-tracker-band-h115_415.jpeg?alt=media&token=093636f8-db31-4142-8d11-eca267763f6b",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }],
+    },
+    {
+      "id": 5,
+      "category": "trending",
+      "title": "G4 Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 570,
+      "rating": 90,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2F0177547_f1-smart-band-waterproof-smart-watch-for-men_300.jpeg?alt=media&token=f89d2672-102c-4059-b070-142518f982a8",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }], 
+    },
+    {
+      "id": 6,
+      "category": "trending",
+      "title": "K9 Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 680,
+      "rating": 80,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2F20-1.jpg?alt=media&token=5c818d5c-9623-4347-bc67-d3bdacd5546d",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }], 
+    },
+    {
+      "id": 7,
+      "category": "trending",
+      "title": "P4 Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 560,
+      "rating": 60,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2F22mm-band-for-xiaomi-huami-amazfit-stratos-smart-watch-2-2s.jpg?alt=media&token=7cc00f37-f1f8-42c5-a54a-dc46c4653535",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }], 
+    },
+    {
+      "id": 8,
+      "category": "trending",
+      "title": "FQ Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 960,
+      "rating": 80,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2FAndroid-5-1-Heart-Rate-Smart-Watch.jpg_300x300.jpg?alt=media&token=c2ed0a71-bd2f-45a8-955e-a8794d9a973f",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }], 
+    },
+    {
+      "id": 9,
+      "category": "mostsearched",
+      "title": "B22 Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 450,
+      "rating": 0,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2Fapple-watch-series-4-gps-44mm-gold-zib90h-2.jpg?alt=media&token=dabda6ec-df60-4507-a609-6c4a85113362",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }], 
+    },
+    {
+      "id": 10,
+      "category": "mostsearched",
+      "title": "P00 Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 570,
+      "rating": 80,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2Fcq5dam.thumbnail.290.370.png?alt=media&token=e8566985-4215-4aac-b661-0265c924363d",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }], 
+    },
+    {
+      "id": 11,
+      "category": "mostsearched",
+      "title": "STE Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 350,
+      "rating": 90,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2Ffenix-5x-gray-image-01.jpg?alt=media&token=8f74c7ab-af78-4872-9046-5059cca0df29",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }], 
+    },
+    {
+      "id": 12,
+      "category": "mostsearched",
+      "title": "PWD Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 570,
+      "rating": 80,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2Fgalaxy_watch_1.jpg?alt=media&token=2e27c301-31cf-4080-b39c-b700bac99f3b",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }], 
+    },
+    {
+      "id": 13,
+      "category": "mostsearched",
+      "title": "MVVM Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 560,
+      "rating": 80,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2Fgiant_69244.jpg?alt=media&token=3bd3e85f-5278-4d15-8a97-620447b19ff3",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }], 
+    },
+    {
+      "id": 14,
+      "category": "mostsearched",
+      "title": "K89 Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 450,
+      "rating": 80,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2FHTB1x8TRfrsTMeJjSszdq6AEupXaX.jpg?alt=media&token=2d98e091-b872-45ee-be05-2bfa7986ac48",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }], 
+    },
+    {
+      "id": 15,
+      "category": "mostsearched",
+      "title": "F87 Smart Watch",
+      "description": "G10D smart watch will make your life easier. With this smart watch you can make calls, listen to music, take pictures,You can record audio and do some more. It supports up to 32GB of memory card. SIM Card support in itBy doing so you can use it as mobile and you can answer and receive the live call from this clock.In this smart watchWith Bluetooth, you can connect with your mobile and Bluetooth and connect with Bluetooth headphone or Bluetooth speakers.With this smart watch you can connect with your mobile phone and this smart watch after you connect your mobile.",
+      "price": 430,
+      "rating": 70,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-ec8ab.appspot.com/o/images%2Fproduct-image-782481917_grande_cd8e62a1-c725-415a-809d-ac300c437f82_grande.jpg?alt=media&token=040a691c-66f3-4137-a71e-c21c5a22b8bd",
+      "specs": [
+          {
+            "title": "Bluetooth",
+            "value": "V3.0"
+          },
+          {
+            "title": "Camera",
+            "value": "3MP"
+          },
+          {
+            "title": "CPU",
+            "value": "MTK621D"
+          },
+          {
+            "title": "RAM+ROM",
+            "value": "32M+32M"
+          },
+          {
+            "title": "Screen Size",
+            "value": "1.54 inch IPS"
+          }], 
     }
   ],
   "profile": {
